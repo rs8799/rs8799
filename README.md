@@ -25,3 +25,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rs8799&" alt="rs8799" /></p>
 
+![Codewars](https://github.r2v.ch/codewars?user=rs8799&stroke=%23BB432CR)
+
