@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Jack the Balloon Twister](https://jacktheballoontwister.netlify.app/)
 
-- 🌱 I’m currently learning **OOP**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://raysanford.netlify.app](https://raysanford.netlify.app)
 
