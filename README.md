@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Full Stack Bike Social Networking App
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://raysanford.netlify.app](https://raysanford.netlify.app)
 
