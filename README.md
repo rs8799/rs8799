@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rs8799" alt="rs8799" /></a> </p>
 
-- 🔭 I’m currently working on Full Stack Bike Social Networking App
+- 🔭 I’m currently working on a full stack e-commerce app
 
 - 🌱 I’m currently learning **React**
 
