@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a full stack e-commerce app
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://raysanford.netlify.app](https://raysanford.netlify.app)
 
